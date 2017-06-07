@@ -1,2 +1,2 @@
 # Android-Screen-Off
-Android Project For Shutting Off Your Device Screen
+Android Project For Shutting Off Your Device Screen Instantly.
